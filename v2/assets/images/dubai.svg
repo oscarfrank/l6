@@ -1,0 +1,9 @@
+<!-- Dubai image for offer / hotel cards -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Dubai">
+  <rect width="800" height="500" fill="#f2c14e"/>
+  <polygon points="400,40 430,380 370,380" fill="#0b3d5c"/>
+  <rect x="250" y="260" width="50" height="140" fill="#1e6f7a"/>
+  <rect x="500" y="220" width="70" height="180" fill="#1e6f7a"/>
+  <rect y="400" width="800" height="100" fill="#c9a227"/>
+  <text x="400" y="460" text-anchor="middle" fill="#0b3d5c" font-family="Georgia, serif" font-size="42">Dubai</text>
+</svg>

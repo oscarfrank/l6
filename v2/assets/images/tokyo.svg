@@ -1,0 +1,8 @@
+<!-- Tokyo image for offer / hotel cards -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Tokyo">
+  <rect width="800" height="500" fill="#f7d1d1"/>
+  <polygon points="400,70 620,380 180,380" fill="#f4f1ea"/>
+  <polygon points="400,110 560,360 240,360" fill="#c9a227"/>
+  <rect y="380" width="800" height="120" fill="#0b3d5c"/>
+  <text x="400" y="455" text-anchor="middle" fill="#f4f1ea" font-family="Georgia, serif" font-size="42">Tokyo</text>
+</svg>

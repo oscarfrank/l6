@@ -1,0 +1,13 @@
+DirectoryIndex index.php
+Options -Indexes
+
+# Schema dumps and notes must not be fetched over HTTP.
+<FilesMatch "\.(sql|md)$">
+    Require all denied
+</FilesMatch>
+<Files "config.local.php">
+    Require all denied
+</Files>
+<Files "setup.lock">
+    Require all denied
+</Files>

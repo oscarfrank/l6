@@ -1,0 +1,12 @@
+<!-- New York image for offer / hotel cards -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="New York">
+  <rect width="800" height="500" fill="#1b2a4a"/>
+  <rect x="80" y="180" width="70" height="220" fill="#3d5a80"/>
+  <rect x="170" y="120" width="90" height="280" fill="#2f4a6e"/>
+  <rect x="280" y="80" width="60" height="320" fill="#4a6a90"/>
+  <rect x="360" y="150" width="110" height="250" fill="#2a4060"/>
+  <rect x="490" y="100" width="75" height="300" fill="#3d5a80"/>
+  <rect x="585" y="200" width="95" height="200" fill="#2f4a6e"/>
+  <rect y="400" width="800" height="100" fill="#0b3d5c"/>
+  <text x="400" y="460" text-anchor="middle" fill="#c9a227" font-family="Georgia, serif" font-size="42">New York</text>
+</svg>

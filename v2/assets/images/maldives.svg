@@ -1,0 +1,9 @@
+<!-- Maldives image for offer / hotel cards -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Maldives">
+  <rect width="800" height="280" fill="#7ec8e3"/>
+  <rect y="280" width="800" height="220" fill="#1e6f7a"/>
+  <ellipse cx="400" cy="290" rx="260" ry="40" fill="#e8d5a3"/>
+  <rect x="300" y="230" width="80" height="50" fill="#c9a227"/>
+  <polygon points="300,230 340,180 380,230" fill="#0b3d5c"/>
+  <text x="400" y="430" text-anchor="middle" fill="#f4f1ea" font-family="Georgia, serif" font-size="42">Maldives</text>
+</svg>

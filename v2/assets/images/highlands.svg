@@ -1,0 +1,8 @@
+<!-- Highlands image for offer / hotel cards -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Scottish Highlands">
+  <rect width="800" height="500" fill="#8fb8c9"/>
+  <polygon points="0,360 180,160 340,320 500,120 800,300 800,500 0,500" fill="#3d5a4c"/>
+  <polygon points="120,360 260,200 400,360" fill="#2f4a3c"/>
+  <rect y="400" width="800" height="100" fill="#243040"/>
+  <text x="400" y="460" text-anchor="middle" fill="#f4f1ea" font-family="Georgia, serif" font-size="36">Highlands</text>
+</svg>

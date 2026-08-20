@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+.vscode/
+*.log
+**/includes/config.local.php
+**/includes/setup.lock
+report-draft.md

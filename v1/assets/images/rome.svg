@@ -1,0 +1,9 @@
+<!-- Rome image for offer / hotel cards -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Rome">
+  <rect width="800" height="500" fill="#e8c39e"/>
+  <ellipse cx="400" cy="300" rx="220" ry="90" fill="#c48a5a"/>
+  <path d="M180 300 Q400 80 620 300" fill="none" stroke="#8a5a32" stroke-width="18"/>
+  <path d="M220 300 Q400 130 580 300" fill="none" stroke="#8a5a32" stroke-width="14"/>
+  <rect y="380" width="800" height="120" fill="#6b4f3a"/>
+  <text x="400" y="455" text-anchor="middle" fill="#f4f1ea" font-family="Georgia, serif" font-size="42">Rome</text>
+</svg>

@@ -1,0 +1,9 @@
+<!-- Barcelona image for offer / hotel cards -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Barcelona">
+  <rect width="800" height="500" fill="#f6b26b"/>
+  <polygon points="220,380 300,120 380,380" fill="#c9a227"/>
+  <polygon points="360,380 460,80 560,380" fill="#b8860b"/>
+  <polygon points="500,380 600,160 700,380" fill="#c9a227"/>
+  <rect y="380" width="800" height="120" fill="#1e6f7a"/>
+  <text x="400" y="455" text-anchor="middle" fill="#f4f1ea" font-family="Georgia, serif" font-size="42">Barcelona</text>
+</svg>

@@ -1,0 +1,9 @@
+<!-- Santorini image for offer / hotel cards -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Santorini">
+  <rect width="800" height="500" fill="#4aa3c7"/>
+  <path d="M0 360 L180 220 L280 260 L420 160 L560 240 L800 200 L800 500 L0 500 Z" fill="#f4f1ea"/>
+  <circle cx="250" cy="250" r="18" fill="#1e6f7a"/>
+  <circle cx="500" cy="210" r="18" fill="#1e6f7a"/>
+  <rect y="400" width="800" height="100" fill="#1e6f7a"/>
+  <text x="400" y="460" text-anchor="middle" fill="#f4f1ea" font-family="Georgia, serif" font-size="42">Santorini</text>
+</svg>

@@ -1,0 +1,15 @@
+<!-- Paris image for offer / hotel cards -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Paris">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7eb6d9"/>
+      <stop offset="100%" stop-color="#f4d7b5"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#sky)"/>
+  <rect y="360" width="800" height="140" fill="#3d5a4c"/>
+  <polygon points="400,70 430,360 370,360" fill="#2b3a42"/>
+  <rect x="355" y="210" width="90" height="18" fill="#2b3a42"/>
+  <rect x="330" y="280" width="140" height="16" fill="#2b3a42"/>
+  <text x="400" y="455" text-anchor="middle" fill="#f4f1ea" font-family="Georgia, serif" font-size="42">Paris</text>
+</svg>

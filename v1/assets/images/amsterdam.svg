@@ -1,0 +1,11 @@
+<!-- Amsterdam image for offer / hotel cards -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Amsterdam">
+  <rect width="800" height="500" fill="#9ec5a5"/>
+  <rect x="80" y="180" width="90" height="200" fill="#c45c26"/>
+  <rect x="200" y="150" width="80" height="230" fill="#0b3d5c"/>
+  <rect x="310" y="190" width="100" height="190" fill="#c9a227"/>
+  <rect x="440" y="140" width="85" height="240" fill="#1e6f7a"/>
+  <rect x="555" y="175" width="110" height="205" fill="#9b2c2c"/>
+  <rect y="380" width="800" height="120" fill="#3d6b8a"/>
+  <text x="400" y="455" text-anchor="middle" fill="#f4f1ea" font-family="Georgia, serif" font-size="42">Amsterdam</text>
+</svg>
